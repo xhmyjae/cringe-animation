@@ -1,5 +1,5 @@
 body {
-    background : url('../../backend/resources/background.png') center no-repeat fixed;
+    background : url('../resources/background.png') center no-repeat fixed;
     background-size: cover;
     overflow-x: hidden;
 }
@@ -41,9 +41,9 @@ body {
 }
 
 .seq-a {
-    background-image: url("../../backend/resources/seq-a.png");
+    background-image: url("../resources/seq-a.png");
 }
 
 .seq-b {
-    background-image: url("../../backend/resources/seq-b.png");
+    background-image: url("../resources/seq-b.png");
 }
